@@ -25,5 +25,11 @@ This project involves creating a garage system that automatically opens its door
 ## Demonstration Video
 For a visual demonstration of the project and its functionality, please watch our [YouTube video](https://youtu.be/HodAuc1V1po).
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## Team Members
+- [Ahmed Selim Mahmoud](https://www.linkedin.com/in/ahmed-selim-230953221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Hager Mohamed Ahmed](https://www.linkedin.com/in/hager-hagezy-4253a4250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Mariam Hassan Elsaka](https://www.linkedin.com/in/mariam-el-saka-18a195224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Arwa Mohamed Ali](https://www.linkedin.com/in/arwa-mohamed-ali)
+- [Karem Elsayed Mahmoud](https://www.linkedin.com/in/karem-mansor-232a77291)
+
+
